@@ -45,7 +45,7 @@
 				<iframe width="400" height="250" src="https://www.youtube.com/embed/V3kkS0hG1GA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
 				 <div class="col-md-6 col-sm-12">
-				<iframe width="400" height="250" src="https://www.youtube.com/embed/IUk1Gx-vHXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				 <iframe width="400" height="250" src="https://www.youtube.com/embed/KIj0JSYBETE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
             </div>
            
